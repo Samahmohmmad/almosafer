@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T17:18:37 PST" name="Default suite" finished-at="2023-11-28T17:19:05 PST" duration-ms="28268">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T17:18:37 PST" name="Default test" finished-at="2023-11-28T17:19:05 PST" duration-ms="28268">
+      <class name="almousafer.almosap">
+        <test-method is-config="true" signature="Mypeforetest()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:18:37 PST" name="Mypeforetest" finished-at="2023-11-28T17:19:02 PST" duration-ms="25235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mypeforetest -->
+        <test-method signature="Chackthecarrancy()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:02 PST" name="Chackthecarrancy" finished-at="2023-11-28T17:19:02 PST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chackthecarrancy -->
+        <test-method signature="Chackthelanguage()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:02 PST" name="Chackthelanguage" finished-at="2023-11-28T17:19:02 PST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chackthelanguage -->
+        <test-method signature="Changethelanguage()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:02 PST" name="Changethelanguage" finished-at="2023-11-28T17:19:05 PST" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Changethelanguage -->
+        <test-method signature="CheckTheFooter()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:05 PST" name="CheckTheFooter" finished-at="2023-11-28T17:19:05 PST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheFooter -->
+        <test-method signature="CheckhotelIsNotSelected()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:05 PST" name="CheckhotelIsNotSelected" finished-at="2023-11-28T17:19:05 PST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckhotelIsNotSelected -->
+        <test-method signature="Checkthenumber()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:05 PST" name="Checkthenumber" finished-at="2023-11-28T17:19:05 PST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkthenumber -->
+        <test-method is-config="true" signature="Myaftertest()[pri:0, instance:almousafer.almosap@2783717b]" started-at="2023-11-28T17:19:05 PST" name="Myaftertest" finished-at="2023-11-28T17:19:05 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myaftertest -->
+      </class> <!-- almousafer.almosap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
