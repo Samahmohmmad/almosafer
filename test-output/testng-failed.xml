@@ -7,7 +7,7 @@
         <methods>
           <include name="Myaftertest"/>
           <include name="Mypeforetest"/>
-          <include name="Checkthenumber"/>
+          <include name="HotelTabSwitch"/>
         </methods>
       </class> <!-- almousafer.almosap -->
     </classes>
